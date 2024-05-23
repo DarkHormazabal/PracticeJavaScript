@@ -1,5 +1,13 @@
 var nombre ="Matias";
 
-document.write('hola ' + nombre);
+
+let saludo = "hola";
+let Saludo = "como estas";
+let _Saludo = "soy yo";
+let $Saludo = "bien";
+let .saludo = "chao";
+
+
+document.write(saludo);
 
 
