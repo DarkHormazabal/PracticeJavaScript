@@ -10,7 +10,9 @@ document.write("<br>");
 document.write(cantidad);
 document.write("<br>");
 document.write(precio);
-document.write("=======================<br>");
+document.write("<br>=======================<br>");
 document.write(persona.nombre + ' ' + persona.edad);
+
+//con // se comenta para entender mejor el codigo
 
 
