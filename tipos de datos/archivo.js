@@ -10,7 +10,7 @@ document.write("<br>");
 document.write(cantidad);
 document.write("<br>");
 document.write(precio);
-
-document.write(persona.nombre);
+document.write("=======================<br>");
+document.write(persona.nombre + ' ' + persona.edad);
 
 
