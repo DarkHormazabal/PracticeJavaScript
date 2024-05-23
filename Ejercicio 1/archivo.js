@@ -1,13 +1,13 @@
 var nombre ="Matias";
 
 
-let saludo = "hola";
-let Saludo = "como estas";
-let _Saludo = "soy yo";
-let $Saludo = "bien";
-let .saludo = "chao";
+let cantidad = 25;
+let precio = "N/A"; 
 
-
-document.write(saludo);
+document.write(nombre);
+document.write("<br>");
+document.write(cantidad);
+document.write("<br>");
+document.write(precio);
 
 
