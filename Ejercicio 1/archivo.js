@@ -1,2 +1,5 @@
-document.write('hola a todos');
-document.write('chao a todos');
+var nombre ="Matias";
+
+document.write('hola ' + nombre);
+
+
