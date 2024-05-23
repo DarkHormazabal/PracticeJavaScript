@@ -1,8 +1,8 @@
 let nombre, edad, a, b, sum, res, mult, div, pot, resid; //variables declaradas
 nombre = prompt('Ingrese su nombre');
 edad = prompt('Ingrese su edad');
-a = prompt('primer numero');
-b = prompt('segundo numero');
+a = parseInt(prompt('primer numero'));
+b = parseInt(prompt('segundo numero'));
 
 sum = a + b;
 res = a - b;
